@@ -1,1 +1,1 @@
-MIN_WAIT = 30
+MIN_WAIT = 30;
