@@ -1,2 +1,2 @@
 MIN_WAIT = 30;
-MAX_WAIT = 50;
+MAX_WAIT = 50
